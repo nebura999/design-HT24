@@ -9,12 +9,11 @@ Hejsan
 Jag heter Hanna, vad heter du?
 Jag pluggar webbprogrammering, pluggar du något? Jag vill veta allt. 
 
-Snart kommer det en bild som representerar mig här. Så kul. 
+Om mig:
+Jag bor i Västerås med min sambo, och våra djur. 
+På fritiden ägnar jag stor del i min ateljé, att pyssla om djuren, och andra hobbyprojekt i kodning.
 
-Min todolist för detta (kmom01) är:
-- Uppdatera länken i footern så den går till mitt superfina GitHub-repo. 
-- Skapa tema och aktivera det..!
-- Commit:a dina ändringar och lägg till en ny tagg (1.0.*).
-- Pusha repo till GitHub, inkl taggar. 
 
+En bild som representerar mig: 
 ![Flowers](assets/img/index_drawing.jpeg)
+Konst och blommor (som jag gjort själv).
